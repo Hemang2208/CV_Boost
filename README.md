@@ -11,7 +11,6 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
-
 # Project Name: CVBoost
 
 ## Project Summary
@@ -62,7 +61,7 @@ The AI-Powered Resume Builder is a smart web application designed to help users 
 
 ### Unnati
 
-- Work on interactive elements using JavaScript.
+- Work on interactive elements using CSS/TailwindCSS.
 - Assist in chatbot development for resume tips.
 - Ensure smooth client-side functionality.
 
